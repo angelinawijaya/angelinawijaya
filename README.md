@@ -1,16 +1,22 @@
-## Hi there 👋
+# Halo! 👋
 
-<!--
-**angelinawijaya/angelinawijaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan, nama saya **Angelina Wijaya**.
 
-Here are some ideas to get you started:
+Saya adalah mahasiswa **Sistem Informasi** yang memiliki minat di bidang:
+- Data Analyst
+- Pengembangan Web
+- Version Control (Git & GitHub)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Tentang Saya
+- 🎓 Mahasiswa Sistem Informasi
+- 💻 Sedang mempelajari Web Development dan Version Control
+- 🌱 Aktif mengikuti pelatihan dan kelas pengembangan diri
+
+## 🎓 Pelatihan & Program
+- **Coding Camp 2026 by DBS**
+- Program pelatihan di **Dicoding Academy**
+
+## 🔗 Kontak
+- GitHub: https://github.com/angelinawijaya
+- LinkedIn: https://www.linkedin.com/in/angelina-wijaya-007646312
+
